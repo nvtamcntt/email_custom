@@ -9,7 +9,6 @@
     myListTable.style.width = "600px";
 
     var records = event.records;
-    // Loop in records retrieved
     for (var i = 0; i < records.length; i++) {
       var record = records[i];
 
